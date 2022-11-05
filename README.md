@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width = "400" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roj67&label=Profile%20views&color=0e75b6&style=flat" alt="roj67" /> </p>
 
-- 🌱 I’m currently learning **CS50 course**
+- 🌱 I’m currently learning **front end development**
 
 - 📫 How to reach me **tamangroj56@gmail.com**
 
