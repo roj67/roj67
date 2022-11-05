@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.javascript.com/" alt="javascript" width="40" height="40"/> </a> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roj67&show_icons=true&locale=en&layout=compact" alt="roj67" /></p>
