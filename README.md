@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
-<img src="[https://icons8.com/icons/set/flutter](https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png)" alt="flutter" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" alt="flutter" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roj67&show_icons=true&locale=en&layout=compact" alt="roj67" /></p>
