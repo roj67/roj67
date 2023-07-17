@@ -22,6 +22,9 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
 <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" alt="flutter" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" alt="dart" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" alt="cpp" width="40" height = "40"/>
+<img src="https://img.icons8.com/?size=512&id=55251&format=png" alt ="csharp" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roj67&show_icons=true&locale=en&layout=compact" alt="roj67" /></p>
