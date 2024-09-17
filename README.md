@@ -16,6 +16,5 @@
 <img src="https://img.icons8.com/?size=512&id=55251&format=png" alt ="csharp" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=512&id=1BC75jFEBED6&format=png" alt="csharp" width ="40" height="40"/>
 <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt ="mssql" width="40" height="40"/>
+<img src="https://icons8.com/icon/Vra58PN2KmI5/react" alt="react" width="40" height="40"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roj67&show_icons=true&locale=en&layout=compact" alt="roj67" /></p>
