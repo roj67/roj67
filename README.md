@@ -17,4 +17,5 @@
 <img src="https://img.icons8.com/?size=512&id=1BC75jFEBED6&format=png" alt="csharp" width ="40" height="40"/>
 <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt ="mssql" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000" alt="react" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="react" width="40" height="40"/>
 </p>
